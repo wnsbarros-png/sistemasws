@@ -1,0 +1,24 @@
+{
+  "site": "https://sistemasws.com",
+  "project": "sistemas-ws",
+  "account_id": "3cbae68b698272be4ad4aa04e008bb29",
+  "deployment_id": "38bbf782-4a2e-4942-acfd-63468e0569fb",
+  "deployment_url": "https://38bbf782.sistemas-ws.pages.dev",
+  "source_commit": "67eb009f27cbfa02873ccbc9ccdf17f43521c759",
+  "previous_deployment_id": "a4770534-2713-4c11-905b-6d3289e3ec4b",
+  "preview_deployment_id": "806d87f7-1bac-493d-839a-5cbe65a9d0be",
+  "status": "success",
+  "verified_urls": [
+    "https://sistemasws.com",
+    "https://www.sistemasws.com"
+  ],
+  "verified_widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "headline_lines": 2,
+  "automated_wcag_violations": 0
+}

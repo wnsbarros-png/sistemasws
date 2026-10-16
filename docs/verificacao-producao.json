@@ -1,0 +1,62 @@
+{
+  "target": "https://sistemasws.com",
+  "results": [
+    {
+      "width": 320,
+      "pageWidth": 320,
+      "headlineLines": 2,
+      "missingImages": [],
+      "missingDimensions": [],
+      "missingAnchors": [],
+      "unsafeLinks": [],
+      "accessibilityViolations": 0,
+      "runtimeErrors": 0
+    },
+    {
+      "width": 390,
+      "pageWidth": 390,
+      "headlineLines": 2,
+      "missingImages": [],
+      "missingDimensions": [],
+      "missingAnchors": [],
+      "unsafeLinks": [],
+      "accessibilityViolations": 0,
+      "runtimeErrors": 0
+    },
+    {
+      "width": 768,
+      "pageWidth": 768,
+      "headlineLines": 2,
+      "missingImages": [],
+      "missingDimensions": [],
+      "missingAnchors": [],
+      "unsafeLinks": [],
+      "accessibilityViolations": 0,
+      "runtimeErrors": 0
+    },
+    {
+      "width": 1024,
+      "pageWidth": 1024,
+      "headlineLines": 2,
+      "missingImages": [],
+      "missingDimensions": [],
+      "missingAnchors": [],
+      "unsafeLinks": [],
+      "accessibilityViolations": 0,
+      "runtimeErrors": 0
+    },
+    {
+      "width": 1440,
+      "pageWidth": 1440,
+      "headlineLines": 2,
+      "missingImages": [],
+      "missingDimensions": [],
+      "missingAnchors": [],
+      "unsafeLinks": [],
+      "accessibilityViolations": 0,
+      "runtimeErrors": 0
+    }
+  ],
+  "noJavaScriptFallback": true,
+  "configFallback": true
+}

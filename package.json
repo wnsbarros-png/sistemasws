@@ -1,0 +1,14 @@
+{
+  "name": "sistemas-ws-site",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check site.js && node verify.mjs",
+    "serve": "python -m http.server 8080"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "playwright": "^1.64.1"
+  }
+}

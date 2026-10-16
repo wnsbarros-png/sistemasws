@@ -1,0 +1,7 @@
+node_modules/
+.agents/
+.codex/
+.taste-skill/
+.playwright-cli/
+screenshots/
+verification.json
